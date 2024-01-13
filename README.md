@@ -2,12 +2,11 @@
 
 # Introduction and problem statement :
 
-In the ever-evolving landscape of financial services, the ability to predict and mitigate credit risk is paramount. Lending institutions, leverage predictive models to identify clients at risk of defaulting on loans. In this project i have devloped a model to predict default clients of LendingClub loans as well built credit scorecard to predit credit score, delving into the importance, key features, and the transformative impact these predictive models have on lending practices.
+In the ever-evolving landscape of financial services, the ability to predict and mitigate credit risk is paramount. Lending institutions, leverage predictive models to identify clients at risk of defaulting on loans. In this project i have ****devloped a model to predict default clients**** of LendingClub loans as well built ****credit scorecard**** to ****redit credit score****, delving into the importance, key features, and the transformative impact these predictive models have on lending practices.
 
 # Dataset:
 
-In this project, I worked with the public LendingClub data, with a size of ~1.8 GB, containing 1.6 millions of loans from 2007 to 2017, each of which has 150 associated features. My goal was to build a predictive model that can predict whether or not a loan will default or not as well predicted credit score , in order to minimize the risks of loan defaults for the company. I also would like to find the most important factors in making decisions about lending.
-
+In this project, I worked with the public LendingClub data, with a size of ~1.8 GB, containing 1.6 millions of loans from 2007 to 2014, each of which has 150 associated features. My goal was to build a predictive model that can predict whether a loan will be default or not as well predicted credit score , in order to minimize the risks of loan defaults for the company. I also would like to find the most important factors in making decisions about lending.
 
 
 # Tools and Technologies Used :
