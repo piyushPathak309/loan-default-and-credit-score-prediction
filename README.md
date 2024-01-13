@@ -2,7 +2,7 @@
 
 # Introduction and problem statement :
 
-In the ever-evolving landscape of financial services, the ability to predict and mitigate credit risk is paramount. Lending institutions, leverage predictive models to identify clients at risk of defaulting on loans. In this project i have ****devloped a model to predict default clients**** of LendingClub loans as well built ****credit scorecard**** to ****redit credit score****, delving into the importance, key features, and the transformative impact these predictive models have on lending practices.
+In the ever-evolving landscape of financial services, the ability to predict and mitigate credit risk is paramount. Lending institutions, leverage predictive models to identify clients at risk of defaulting on loans. In this project i have ****devloped a model to predict default clients**** of LendingClub loans as well built ****credit scorecard**** to ****predict credit score****, delving into the importance, key features, and the transformative impact these predictive models have on lending practices.
 
 # Dataset:
 
